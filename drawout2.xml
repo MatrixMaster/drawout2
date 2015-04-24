@@ -14,7 +14,7 @@
         </value>
         <next>
           <block type="oled_drawtext" id="27">
-            <field name="TEXT">The Matrix is my game</field>
+            <field name="TEXT">FIRESTORM</field>
             <next>
               <block type="oled_setcursor" id="36" inline="true">
                 <value name="STARTX">
@@ -29,7 +29,7 @@
                 </value>
                 <next>
                   <block type="oled_drawtext" id="46">
-                    <field name="TEXT">dragons</field>
+                    <field name="TEXT">robots are cool</field>
                   </block>
                 </next>
               </block>
